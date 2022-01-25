@@ -1,0 +1,54 @@
+html {
+    background-color: #FFE4E1;
+}
+h2 {
+    font-family: "Poppins", sans-serif;
+    font-size: 28px;
+    background-color: honeydew;
+}
+li {
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+}
+p {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    color: grey;
+}
+.paragraph {
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    color: grey;
+
+}
+.navbar{
+    width: 100%;
+    z-index: 999;
+    font-family: 'Poppins', sans-serif;
+}
+.navbar .menu li {
+    display: inline-block;
+}
+.navbar ul {
+    padding: 0;
+}
+.navbar .menu li a{
+    display: block;
+    color: gray;
+    font-size: 21px;
+    font-weight: 500;
+    margin-left: 20px;
+}
+.navbar .menu li a:hover {
+    color: #ff384e;
+}
+footer {
+    justify-content: center;
+    text-align: center;
+    background: #ff384e;
+    padding: 20px 21px;
+    font-family: "Poppins", sans-serif;
+}
+footer p {
+    color: #fff
+}
